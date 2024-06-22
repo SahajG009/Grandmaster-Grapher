@@ -1,5 +1,5 @@
 # ♛ Grandmaster Grapher ♚
-
+![Main Image](2700chess.png)
 ## Project Overview
 
 The Grandmaster Grapher project is a dynamic and visually appealing tool designed to scrape live world rankings and performance metrics of the top 10 chess players from 2700chess.com. The project leverages web scraping techniques to gather real-time data, saves it in a CSV format, and visualizes it in an insightful graph using Matplotlib.
@@ -59,26 +59,6 @@ The tool facilitates easy comparisons between players, enabling enthusiasts and 
 
 ## Age vs. Rating Correlation
 Connecting player age with their respective ratings unveils potential correlations between age and performance. This insight could spark further analysis into the dynamics of chess players' careers and the impact of age on their playing styles.
-
-# Future Prospects
-
-## Historical Analysis
-Extend the project to include historical data, enabling a longitudinal analysis of players' progress over time. This could unveil patterns and contribute to discussions on the evolution of chess strategies.
-
-## Interactive Features
-Incorporate interactive elements into the visualization, allowing users to hover over data points for additional details or dynamically filter and explore specific players or time controls. This enhances user engagement and exploration.
-
-## Machine Learning Integration
-Explore the integration of machine learning models to predict future player ratings based on historical data. This could provide intriguing forecasts and contribute to discussions on the future of chess and player performance.
-
-## Expanded Data Sources
-Consider expanding data sources to include additional chess platforms or tournament results, providing a more comprehensive view of players' performances and rankings.
-
-## User Customization
-Implement features that allow users to customize the visualization based on their preferences. This could include selecting specific players, time periods, or rating categories, enhancing the user experience.
-
-By pursuing these future prospects, Grandmaster Grapher can evolve into a versatile tool for chess enthusiasts, researchers, and analysts, offering deeper insights and a richer understanding of the world of elite chess.
-
 
 ## 🎉 Conclusion
 
